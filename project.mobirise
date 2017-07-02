@@ -49,7 +49,7 @@
             "H3": {
               "text-align": "left",
               "color": "#2969b0",
-              "font-size": "36px",
+              "font-size": "32px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
@@ -104,7 +104,7 @@
               "size": 0
             }
           },
-          "title": "HPC Electrical Langeberg",
+          "title": "HPC Electrical Langeberg.",
           "text": "Your electrical contractor for<br>Electrical installations and<br>Solar panels.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
