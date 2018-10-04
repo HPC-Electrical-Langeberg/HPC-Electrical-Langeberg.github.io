@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/zonnepanelen-128x166.png",
     "noImageResize": "",
@@ -632,32 +632,27 @@
             "Theme"
           ],
           "_name": "contacts2",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts2-7",
+          "_anchor": "contacts2-w",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "27 Piet-se-road\nMontagu 6720",
-              "placeId": "ChIJ3-UpZdpF0h0Ra0TTtTm-5EQ",
+              "address": "Amanzi 1 \nTalana road\nMontagu 6720",
+              "placeId": "ChIJ6yf3R-JF0h0RaCD9iuubmGo",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>27 Piet-se-pad<br>Montagu<br>6720<br><br><br>\n<strong>Contacts</strong><br>\nEmail: langeberg.electrical@gmail.com<br>\nPhone: <br>Flip 063 198 1865&nbsp;<br>or &nbsp;<br>Bes 072 1476365<br><br>",
-          "text2": "<ul></ul>"
+          "text1": "<strong>Address</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">House no. 1 Amanzi</span><br>Talana road<br>Montagu 6720<br><br>\n<strong>Contacts</strong><br>\nEmail: langeberg.electrical@gmail.com<br>Cell: 063 608 7550 / 072 147 6365<br><br>",
+          "text2": "<div><span style=\"font-size: 14px; line-height: 25px;\"></span></div>"
         }
       ]
     }
